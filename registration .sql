@@ -75,16 +75,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `username`, `gender`, `email`, `phone`, `password`, `reg_date`, `utr`) VALUES
-(1, 'mohammad', 'saniya', 'saniyamohd', 'Female', 'saniya@gmail.com', '8956478329', '$2y$10$nz/iSJNg42cfk46HwUsC3.RIAPFGSKZVe7blB5p.W5JaEt0BDsU/2', '2025-04-23 16:20:08', 'TEMP_1'),
-(2, 'mohammad', 'ayesha', 'ayeshamohd', 'Female', 'ayesha@gmail.com', '9845673490', '$2y$10$TqFlvMRVC1ihuvWvIy8ZWuoSficm6knKeeVyKFdC1y9dbJLIx.r6W', '2025-04-24 05:06:02', 'TEMP_2'),
-(4, 'Balaji', 'Lanka', 'balu', 'Male', 'balu@gmail.com', '9989673572', '$2y$10$47yB7AaFosXXU26b7elWzO2CYAB.GDtnOPhzVSrzYx4oo6hN2BxRK', '2025-04-25 05:08:01', 'TEMP_4'),
-(5, 'p', 'sravani', 'shravani', 'Female', 'sravani@gmail.com', '9989673570', '$2y$10$3/fYiTC2FvQe1eESBMkLweEN2SQPvqP3tvGJZG2YoDtjVg/f6V1T6', '2025-04-26 09:30:10', 'TEMP_5'),
-(6, 'md', 'amjad', 'Amjad', 'Male', 'amjad@gmail.com', '9989673570', '$2y$10$4bd7xpWma/V25FXu2dnOUuXAyduq5uvCtxRlS1UBpmQPdbW..OOta', '2025-04-26 09:39:48', 'TEMP_6'),
-(7, 's', 'meghana', 'meghana', 'Female', 'megh@gmail.com', '9989673579', '$2y$10$T98/GpQ9A2Aw4Nv8zwG61uVTD5TFlyFmT.HzaJGMIstp.36OhFUXG', '2025-04-26 10:25:35', 'TEMP_7'),
-(8, 'md', 'amreen', 'Amreen', 'Female', 'amreen@gmail.com', '9834562995', '$2y$10$EKrwFMQLduh9xCVeKZv5pOnzfRlraYWA.2A/qKVFRK.c0xX0UOB.2', '2025-04-26 13:35:12', 'TEMP_8'),
-(9, 'md', 'parveen', 'parveen', 'Female', 'parveen@gmail.com', '0983456299', '$2y$10$Rr1s/Ivc6hA97/vNIy0Fwup/DUQumghK7C7dp8YRhd6Vb8Hq6nWqm', '2025-04-26 17:50:42', 'TEMP_9'),
-(10, 'md', 'Aamreen', 'shanu', 'Female', 'amreen7@gmail.com', '9989673579', '$2y$10$SgNKnfaF7ViCMvrsAcNBzuyE5Wd4KicAo.OH6oMsRa0AWMoGJduTy', '2025-04-30 16:59:59', '512034868776'),
-(11, 'Balaji', 'Lanka', 'shanu-admin', 'Male', 'balu@7gmail.com', '0998967357', '$2y$10$xF9JMK5DeoR6yV8CXONwtuvvBR2KiZJ5.ZsP8BLuFXou5ZhiZBBlO', '2026-02-14 15:04:53', '512034868775');
+(1, 'mohammad', 'saniya', 'saniyamohd', 'Female', 'saniya@gmail.com', '8956478320', '$2y$10$nz/iSJNg42cfk46HwUsC3.RIAPFGSKZVe7blB5p.W5JaEt0BDsU/2', '2025-04-23 16:20:08', 'TEMP_1'),
+(2, 'mohammad', 'abc', 'abcuser', 'Female', 'user@gmail.com', '9845673499', '$2y$10$TqFlvMRVC1ihuvWvIy8ZWuoSficm6knKeeVyKFdC1y9dbJLIx.r6W', '2025-04-24 05:06:02', 'TEMP_2');
 
 -- --------------------------------------------------------
 
